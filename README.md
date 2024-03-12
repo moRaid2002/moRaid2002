@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">fullstack/ mobile developer</h3>
+<h1 align="center"> Mohamed Raid Athamena</h1>
+<h3 align="center">Fullstack/Mobile developer</h3>
 
 - 🔭 I’m currently working on [Lattize boltzman fuild simulation](private)
 
